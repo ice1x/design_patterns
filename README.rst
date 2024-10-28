@@ -24,6 +24,7 @@
 * Фасад (Facade) `Python <structural/facade.py>`_
 * Приспособленец (Flyweigth) `Python <structural/flyweight.py>`_
 * Заместитель (Proxy) `Python <structural/proxy.py>`_
+* Репозиторий (Repository) `Python <structural/repository/>`_
 
 
 Паттерны поведения
